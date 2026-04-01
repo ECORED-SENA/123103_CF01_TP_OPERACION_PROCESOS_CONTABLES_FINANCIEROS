@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Fundamentos, cálculo y diligenciamiento de declaraciones tributarias'
