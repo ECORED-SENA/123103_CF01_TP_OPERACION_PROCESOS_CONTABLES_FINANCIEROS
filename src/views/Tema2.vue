@@ -35,7 +35,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Cumplimiento normativo
-                p.mb-0 Existe deber de conservación de documentos, informaciones y pruebas por mínimo cinco años (con el conteo señalado).
+                p.mb-0 Existe deber de conservación de documentos, informaciones y pruebas por un mínimo de cinco años (con el conteo señalado).
               .col-xl-6
                 figure
                   img(src='@/assets/curso/tema2/img4.png', alt='' style="max-width: 500px").m-auto

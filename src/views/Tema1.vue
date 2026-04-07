@@ -105,7 +105,7 @@
         .row.justify-content-center.mb-5
           .col-xl-10
             .caja-tema1-2(data-aos="zoom-in")
-              p.mb-3 Ahora se abordan los tratados internacionales, en especial los convenios para evitar la doble imposición, que regulan la tributación de operaciones realizadas entre distintos países y los aspectos relevantes son:
+              p.mb-3 Ahora se abordan los tratados internacionales, en especial los convenios para evitar la doble imposición, que regulan la tributación de operaciones realizadas entre distintos países, y los aspectos relevantes son:
               .row.align-items-center.justify-content-center
                 .col-xl.mb-4.mb-lg-0
                   ul.fa-ul.estilo___ul.mb-0
@@ -124,7 +124,7 @@
                 .col-xl-auto.col-md-9(data-aos="fade-left")
                   figure
                     img(src="@/assets/curso/tema1/img13.png", alt="").m-auto
-        p.mb-5 En cuanto a los cambios vigentes, la última gran actualización estructural, en materia tributaria se tiene esta Ley de república y actualizaciones anuales:
+        p.mb-5 En cuanto a los cambios vigentes, la última gran actualización estructural en materia tributaria se tiene esta ley de república y actualizaciones anuales:
     .tarjeta--container.row.justify-content-center.mb-5.m-0(data-aos="zoom-in")
       .col-xl-6.col-md-10.tarjeta.color-primario.p-5.mb-4.mb-lg-0
         .row.d-flex.align-items-end.mb-4
@@ -144,7 +144,7 @@
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Conceptos fundamentales y tipología de los tributos
-    p.mb-5 En esta sección el aprendiz identificará los elementos de la obligación tributaria y los tipos de tributos vigentes, fortaleciendo su capacidad para interpretar y clasificar responsabilidades fiscales.
+    p.mb-5 En esta sección, el aprendiz identificará los elementos de la obligación tributaria y los tipos de tributos vigentes, fortaleciendo su capacidad para interpretar y clasificar responsabilidades fiscales.
     .row.justify-content-center.mb-5
       .col-xl-10
         .caja-tema1-3(data-aos="zoom-in")
@@ -357,7 +357,7 @@
                 img(src='@/assets/curso/tema1/img25.svg', alt='' style="max-width: 85px").m-auto
             .col-xl.mb-4.mb-lg-0
               h4 Diferencias o similitudes entre impuesto, tasa y contribución
-              p.mb-0 Para profundizar en estas diferencias con ejemplos aplicados a la realidad contable del país, se sugiero acceder al video.
+              p.mb-0 Para profundizar en estas diferencias con ejemplos aplicados a la realidad contable del país, se sugiere acceder al video.
             .col-xl-3
               a.boton.color-acento-botones.texto-negro(:href="('https://www.youtube.com/watch?v=7AERryJYeFw')" target="_blank" type="website")
                 span Ver video
@@ -404,7 +404,7 @@
             p.mb-3 El régimen especial aplica a entidades sin ánimo de lucro como fundaciones o corporaciones. Sus excedentes pueden estar exentos de renta si se reinvierten en su objeto social, bajo control y actualización permanente ante la DIAN.
           .row(titulo="Régimen simplificado").ajuste-cajaAcordion
             p.mb-3 El Régimen Simple de Tributación (RST) es un sistema opcional para pequeños y medianos empresarios que unifica impuestos como renta, IVA e ICA en un solo pago, simplificando el cumplimiento tributario.
-    p.mb-5 Con objetivo de afincar estos conceptos, mediante la posterior tabla se resumen las diferencias operativas y sustanciales entre los regímenes:
+    p.mb-5 Con el objetivo de afincar estos conceptos, mediante la posterior tabla se resumen las diferencias operativas y sustanciales entre los regímenes:
     .row.justify-content-center.mb-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -514,7 +514,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-xl
         .caja-intro.mb-4.mb-lg-0(data-aos="fade-right")
-          p.mb-0 La gestión tributaria en Colombia requiere una coordinación precisa entre los procesos contables y los plazos establecidos por la ley. El calendario tributario no es solo un listado de fechas, sino una herramienta estratégica que permite prever salidas de efectivo y asegurar la presentación oportuna de los reportes. Su cumplimiento protege la reputación de la organización ante la administración fiscal y evita sanciones que afecten los recursos destinados a la inversión. Por ello, es fundamental integrar este cronograma al ciclo de cierres contables y organizar la información con anticipación. En este apartado se revisan los plazos tributarios para 2026 y las implicaciones legales de incumplirlos (Jaramillo, 2021).
+          p.mb-0 La gestión tributaria en Colombia requiere una coordinación precisa entre los procesos contables y los plazos establecidos por la ley. El calendario tributario no es solo un listado de fechas, sino una herramienta estratégica que permite prever salidas de efectivo y asegurar la presentación oportuna de los reportes. Su cumplimiento protege la reputación de la organización ante la administración fiscal y evitar sanciones que afecten los recursos destinados a la inversión. Por ello, es fundamental integrar este cronograma al ciclo de cierres contables y organizar la información con anticipación. En este apartado se revisan los plazos tributarios para 2026 y las implicaciones legales de incumplirlos (Jaramillo, 2021).
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema1/img34.png", alt="").m-auto
@@ -535,9 +535,9 @@
           .row(titulo="¿Qué es el calendario tributario?").ajuste-cajaAcordion
             p.mb-3 Es el decreto que el Gobierno Nacional expide cada año para establecer las fechas límite de declaración y pago de los impuestos administrados por la autoridad fiscal. Esto permite organizar los vencimientos. Planificar las obligaciones fiscales y evita sanciones e intereses de mora.
           .row(titulo="Norma que regula los plazos (Decreto 2229 de 2023)").ajuste-cajaAcordion
-            p.mb-3 Modifica el Decreto Único Reglamentario 1625 de 2016; el cual, establece: fechas de vencimiento, organización por últimos dígitos del NIT y diferenciación de tipos de contribuyentes.
+            p.mb-3 Modifica el Decreto Único Reglamentario 1625 de 2016, el cual establece fechas de vencimiento, organización por últimos dígitos del NIT y diferenciación de tipos de contribuyentes.
           .row(titulo="Principales impuestos incluidos").ajuste-cajaAcordion
-            p.mb-3 El calendario tributario fija plazos para el impuesto sobre la renta, el impuesto sobre las ventas (IVA), le reporte de la información exógena, los activos en el exterior y el régimen simple de tributación.
+            p.mb-3 El calendario tributario fija plazos para el impuesto sobre la renta, el impuesto sobre las ventas (IVA), el reporte de la información exógena, los activos en el exterior y el régimen simple de tributación.
           .row(titulo="Clasificación de contribuyentes").ajuste-cajaAcordion
             p.mb-3 El calendario tributario establece plazos diferenciados según el tipo de contribuyente. Para las personas naturales, las fechas de declaración se determinan de acuerdo con su nivel de ingresos y patrimonio. En el caso de las personas jurídicas, como empresas y sociedades, se fijan vencimientos específicos. Por su parte, los grandes contribuyentes cuentan con plazos particulares que incluyen pagos anticipados y fechas especiales de cumplimiento.
           .row(titulo="Organización de los vencimientos").ajuste-cajaAcordion
@@ -563,8 +563,8 @@
                       td.ajuste-border-tabla.texto-left 05 – 06
                       td.texto-left Fecha 3
           .row(titulo="Impuestos territoriales").ajuste-cajaAcordion
-            p.mb-3 Además de los impuestos nacionales, los municipios establecen sus propios plazos para: impuesto predial, impuesto de industria y comercio (ICA).
-    p.mb-5 Para realizar una excelente planificación financiera de los tributos y evitar sanciones es necesario integrar calendarios nacionales y locales.
+            p.mb-3 Además de los impuestos nacionales, los municipios establecen sus propios plazos para: el impuesto predial, el impuesto de industria y comercio (ICA).
+    p.mb-5 Para realizar una excelente planificación financiera de los tributos y evitar sanciones, es necesario integrar calendarios nacionales y locales.
     .row
       .col-xl-6(data-aos="zoom-in")
         a.anexo.mb-4.mb-lg-0(href="https://www.dian.gov.co/Paginas/CalendarioTributario.aspx " target="_blank")

@@ -70,7 +70,7 @@
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1	Depuración y determinación del impuesto: ingresos, costos, deducciones, beneficios, pérdidas, retenciones y anticipo
-    p.mb-5 La depuración del impuesto sobre la renta parte de los ingresos y conduce a la renta líquida gravable, siguiendo la secuencia establecida en el artículo 26 del Estatuto Tributario y considerando las excepciones según el tipo de contribuyente. Para llevar a cabo este proceso se debe tener en cuenta:
+    p.mb-5 La depuración del impuesto sobre la renta parte de los ingresos y conduce a la renta líquida gravable, siguiendo la secuencia establecida en el artículo 26 del Estatuto Tributario y considerando las excepciones según el tipo de contribuyente. Para llevar a cabo este proceso, se debe tener en cuenta:
     .bg-slider.mb-5
       .px-5
         .ajuste-slider(data-aos="zoom-in")
@@ -167,7 +167,7 @@
               figure.mb-4(data-aos="fade-left")
                 img(src='@/assets/curso/tema3/img13.svg', alt="" style="max-width: 140px").m-auto
             h4.text-center Prevalidadores DIAN (cuando existan anexos técnicos)
-            p.mb-0.text-center Se usan para generar archivos técnicos (por ejemplo XML) cuando la obligación lo exige (conciliación fiscal u otros anexos).
+            p.mb-0.text-center Se usan para generar archivos técnicos (por ejemplo: XML) cuando la obligación lo exige (conciliación fiscal u otros anexos).
     .caja-tema1.mb-5(data-aos="fade-right")
       .col-lg-auto
         figure
@@ -203,6 +203,7 @@
               figure.ajuste-tabla-2
                 img(src='@/assets/curso/tema3/img15.svg', alt='El diagrama muestra el encabezado de una columna en una hoja de cálculo identificado como “Fecha / Periodo”. Este campo permite registrar el momento en que ocurre una operación o transacción, facilitando la organización cronológica, el control del año gravable y la trazabilidad de los registros contables.' style="max-width: 320px")
           .row(titulo="Paso 4").ajuste-cajaAcordion
+            p.mb-0 Pestaña “resultado”. Es la depuración que se realiza con base en el art. 26 del Estatuto Tributario. Ejemplo: Revisar nuevamente la figura 10. Secuencia general de depuración de renta.
             .col-xl-7.mb-4
               p.mb-0 Pestaña “resultado”. Es la depuración que se realiza con base en el art. 26 del Estatuto Tributario. Ejemplo: Revisar nuevamente la figura 10. Secuencia general de depuración de renta. 
             .col-xl-5.mb-3
