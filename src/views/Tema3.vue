@@ -174,7 +174,7 @@
           img(src="@/assets/curso/tema1/img11.svg" style="max-width: 60px").m-auto
       .col
         h3 Diseño del módulo de cálculo: estructura de una planilla 
-    p.mb-5 El diseño del modelo de cálculo en #[i excel] organiza la información tributaria mediante hojas estructuradas que permiten registrar datos, aplicar fórmulas y validar resultados para determinar el impuesto con claridad y control. Los pasos son:
+    p.mb-5 El diseño del modelo de cálculo en  excel organiza la información tributaria mediante hojas estructuradas que permiten registrar datos, aplicar fórmulas y validar resultados para determinar el impuesto con claridad y control. Los pasos son:
     .row.justify-content-center.mb-5
       .col-xl-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="zoom-in")
@@ -211,7 +211,7 @@
                 img(src='@/assets/curso/tema3/img16.png', alt='').m-auto 
           .row(titulo="Paso 5").ajuste-cajaAcordion
             .col-xl-7.mb-4
-              p.mb-0 Pestaña “Control”. Este tablero responde: “¿el cálculo es consistente?” sin volver a revisar todo a mano.
+              p.mb-0 Pestaña “Control”. Este tablero responde: “¿El cálculo es consistente?” sin volver a revisar todo a mano.
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/tema3/img17.png', alt='').m-auto 
@@ -272,7 +272,7 @@
         .col-xl-auto.order-1.order-lg-2
           figure
             img(src='@/assets/curso/tema3/img18.jpg', alt='').m-auto
-    p.mb-5 La ruta general para la elaboración de una declaración de renta se explica en el siguiente secuencialmente en el siguiente esquema:
+    p.mb-5 La ruta general para la elaboración de una declaración de renta se explica secuencialmente en el siguiente esquema:
     .row.justify-content-center.mb-5
       .col-xl-8
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -328,7 +328,7 @@
           span Decisión de formulario de renta y conciliación fiscal en personas naturales
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema3/img22.svg', alt='La imagen presenta un esquema de decisión para personas naturales según su condición de residencia fiscal y obligación de llevar contabilidad. A partir de estos criterios se determina el formulario de renta correspondiente y, cuando aplica, la conciliación fiscal.').m-auto
-    p.mb-5 La obligación de declarar renta se define según la residencia fiscal y el tipo de contribuyente, asignando el Formulario 110 a personas jurídicas y naturales no residentes, y el Formulario 210 a personas naturales residentes. Las personas naturales y sucesiones ilíquidas deben presentar esta declaración si cumplan con:
+    p.mb-5 La obligación de declarar renta se define según la residencia fiscal y el tipo de contribuyente, asignando el Formulario 110 a personas jurídicas y naturales no residentes, y el Formulario 210 a personas naturales residentes. Las personas naturales y sucesiones ilíquidas deben presentar esta declaración si cumplen con:
     .bg-carrusel
       .px-5
         .row.align-items-center.mb-5
@@ -507,11 +507,11 @@
           .row.justify-content-center.mb-5
             .col-xl-10
               LineaTiempoD.color-secundario
-                p(numero="Paso 1" titulo="Paso 1") Para crear una cuenta de usuario es necesario que el contribuyente se encuentre inscrito en el RUT.
-                p(numero="Paso 2" titulo="Paso 2") Posteriormente, es necesario ingresar al portal de la Dian, escoger la pestaña superior “Transaccional” y, dentro de esa, la opción “Usuario nuevo”.
-                p(numero="Paso 3" titulo="Paso 3") Luego, deberá digitar su número de cédula y fecha de expedición.
-                p(numero="Paso 4" titulo="Paso 4") Después de dar clic en “Habilitar mi cuenta”, el sistema le permitirá crear una contraseña de usuario.
-                p(numero="Paso 5" titulo="Paso 5") La próxima vez que ingrese al portal deberá acceder a la pestaña “Transaccional”, y luego escoger la opción “Usuario registrado”.
+                p(numero="1" titulo="Paso 1") Para crear una cuenta de usuario es necesario que el contribuyente se encuentre inscrito en el RUT.
+                p(numero="2" titulo="Paso 2") Posteriormente, es necesario ingresar al portal de la Dian, escoger la pestaña superior “Transaccional” y, dentro de esa, la opción “Usuario nuevo”.
+                p(numero="3" titulo="Paso 3") Luego, deberá digitar su número de cédula y fecha de expedición.
+                p(numero="4" titulo="Paso 4") Después de dar clic en “Habilitar mi cuenta”, el sistema le permitirá crear una contraseña de usuario.
+                p(numero="5" titulo="Paso 5") La próxima vez que ingrese al portal deberá acceder a la pestaña “Transaccional”, y luego escoger la opción “Usuario registrado”.
           ol.lista-ol--cuadro.mb-0
             li
               .lista-ol--cuadro__vineta
@@ -521,11 +521,11 @@
           .row.justify-content-center.mb-0
             .col-xl-10
               LineaTiempoD.color-secundario
-                p(numero="Paso 1" titulo="Paso 1") Ingresar como “Usuario registrado a nombre propio” en el portal Muisca de la Dian.
-                p(numero="Paso 2" titulo="Paso 2") En el menú principal seleccionar la opción “Gestionar mi firma electrónica” y dar clic en “Generar firma electrónica”.
-                p(numero="Paso 3" titulo="Paso 3") Verificar los datos del usuario que realizará la gestión de la firma electrónica, los cuales han sido registrados en su RUT, y dar clic en “Continuar”.
-                p(numero="Paso 4" titulo="Paso 4") Digitar la clave dinámica generada por el sistema, la cual será enviada al correo electrónico de contribuyentes con copia a la DIAN.
-                p(numero="Paso 5" titulo="Paso 5") Posteriormente, leer y aceptar el acuerdo de firma electrónica, para luego crear la clave que se asignará al instrumento de firma electrónica.
+                p(numero="1" titulo="Paso 1") Ingresar como “Usuario registrado a nombre propio” en el portal Muisca de la Dian.
+                p(numero="2" titulo="Paso 2") En el menú principal seleccionar la opción “Gestionar mi firma electrónica” y dar clic en “Generar firma electrónica”.
+                p(numero="3" titulo="Paso 3") Verificar los datos del usuario que realizará la gestión de la firma electrónica, los cuales han sido registrados en su RUT, y dar clic en “Continuar”.
+                p(numero="4" titulo="Paso 4") Digitar la clave dinámica generada por el sistema, la cual será enviada al correo electrónico de contribuyentes con copia a la DIAN.
+                p(numero="5" titulo="Paso 5") Posteriormente, leer y aceptar el acuerdo de firma electrónica, para luego crear la clave que se asignará al instrumento de firma electrónica.
     .caja-tema1.mb-5(data-aos="fade-right")
       .col-lg-auto
         figure
@@ -723,7 +723,7 @@
         figure
           img(src="@/assets/curso/tema1/img11.svg" style="max-width: 60px").m-auto
       .col
-        h3 Paso 9: archivar expediente final.
+        h3 Paso 9: archivar expediente final
     .row.justify-content-center.mb-5
       .col-xl-10
         .caja-tema3(data-aos="zoom-in")
