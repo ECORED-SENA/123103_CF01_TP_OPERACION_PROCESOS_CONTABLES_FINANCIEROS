@@ -202,14 +202,13 @@
                 span Pestaña parámetros
               figure.ajuste-tabla-2
                 img(src='@/assets/curso/tema3/img15.svg', alt='El diagrama muestra el encabezado de una columna en una hoja de cálculo identificado como “Fecha / Periodo”. Este campo permite registrar el momento en que ocurre una operación o transacción, facilitando la organización cronológica, el control del año gravable y la trazabilidad de los registros contables.' style="max-width: 320px")
-          .row(titulo="Paso 4").ajuste-cajaAcordion
-            p.mb-0 Pestaña “resultado”. Es la depuración que se realiza con base en el art. 26 del Estatuto Tributario. Ejemplo: Revisar nuevamente la figura 10. Secuencia general de depuración de renta.
+          .row(titulo="Paso 4").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Pestaña “resultado”. Es la depuración que se realiza con base en el art. 26 del Estatuto Tributario. Ejemplo: Revisar nuevamente la figura 10. Secuencia general de depuración de renta. 
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/tema3/img16.png', alt='').m-auto 
-          .row(titulo="Paso 5").ajuste-cajaAcordion
+          .row(titulo="Paso 5").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Pestaña “Control”. Este tablero responde: “¿El cálculo es consistente?” sin volver a revisar todo a mano.
             .col-xl-5.mb-3
