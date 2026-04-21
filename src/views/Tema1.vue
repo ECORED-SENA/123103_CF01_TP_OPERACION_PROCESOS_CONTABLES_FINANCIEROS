@@ -277,7 +277,7 @@
     p.mb-5 Para entender esta dinámica, de manera práctica se desarrollará el siguiente ejercicio para afianzar los conocimientos:
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Eav4UbQI_h0?si=ZKg7ZY_Dei_BgGA1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]. Ejercicio práctico de afianzamiento.
     .row.justify-content-center
       .col-xl-10
@@ -346,7 +346,7 @@
     p.mb-5 En el siguiente video se desarrollará un ejercicio práctico sobre contribuciones y tasas, desde su clasificación, con base en los hechos económicos generados.
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/vGX5fBaEuqM?si=MDMkFSStsba7R7Vp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]. Ejercicio práctico de tasas y contribuciones.
     .row.justify-content-center
       .col-xl-10
