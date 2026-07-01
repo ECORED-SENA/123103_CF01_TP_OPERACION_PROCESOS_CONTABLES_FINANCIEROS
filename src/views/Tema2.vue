@@ -9,7 +9,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-xl
         .caja-intro.mb-4.mb-lg-0(data-aos="fade-right")
-          p.mb-0 Este capítulo explica de manera aplicada la gestión de la información tributaria y la construcción del expediente documental que respalda las obligaciones fiscales. Destaca que esta gestión conecta los hechos económicos reales con lo declarado ante la autoridad fiscal y garantiza la trazabilidad de la información mediante documentos verificables. Asimismo, resalta la importancia de recolectar, organizar, validar, proteger y conservar los soportes por un mínimo de cinco años, asegurando que estén disponibles para la administración tributaria cuando sean requeridos.
+          p.mb-0 Este tema explica de manera aplicada la gestión de la información tributaria y la construcción del expediente documental que respalda las obligaciones fiscales. Destaca que esta gestión conecta los hechos económicos reales con lo declarado ante la autoridad fiscal y garantiza la trazabilidad de la información mediante documentos verificables. Asimismo, resalta la importancia de recolectar, organizar, validar, proteger y conservar los soportes por un mínimo de cinco años, asegurando que estén disponibles para la administración tributaria cuando sean requeridos.
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema2/img1.svg", alt="").m-auto
@@ -46,7 +46,7 @@
               .col-xl-6
                 figure
                   img(src='@/assets/curso/tema2/img5.png', alt='' style="max-width: 500px").m-auto
-    p.mb-5 Con el objetivo de conocer el recorrido completo de la información tributaria desde su identificación hasta su conservación, lo invitamos a revisar la siguiente figura:
+    p.mb-5 A continuación, se presenta el recorrido completo de la información tributaria, desde su identificación hasta su conservación:
     .bg-carrusel
       .px-5
         SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-0
@@ -179,7 +179,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Identificación y perfil tributario
-                p.mb-0 Incluye RUT, responsabilidades, actividad económica, datos de contacto. La DIAN publica guías y recursos de inscripción y actualización del RUT, que se recomienda usar como material de apoyo en el capítulo. (DIAN, s.f.).
+                p.mb-0 Incluye RUT, responsabilidades, actividad económica, datos de contacto. La DIAN publica guías y recursos de inscripción y actualización del RUT, que se recomienda usar como material de apoyo en el tema. (DIAN, s.f.).
               .col-xl-6
                 figure
                   img(src='@/assets/curso/tema2/img17.png', alt='' style="max-width: 500px").m-auto

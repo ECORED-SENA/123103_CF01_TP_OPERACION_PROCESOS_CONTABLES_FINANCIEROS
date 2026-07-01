@@ -446,7 +446,7 @@
           img(src="@/assets/curso/tema1/img11.svg" style="max-width: 60px").m-auto
       .col
         h3 Categorización: personas naturales, pequeños comerciantes y otras figuras
-    p.mb-5 En este podcast se explicarán las principales obligaciones tributarias de personas naturales y jurídicas en Colombia, así como los impuestos y responsabilidades fiscales que deben cumplir según su actividad económica.
+    p.mb-5 En este pódcast se explicarán las principales obligaciones tributarias de personas naturales y jurídicas en Colombia, así como los impuestos y responsabilidades fiscales que deben cumplir según su actividad económica.
     .row.align-items-center.m-0.mb-5
       .col-xl
         .row.align-items-center.justify-content-center.caja-tema1-5(data-aos="zoom-in")

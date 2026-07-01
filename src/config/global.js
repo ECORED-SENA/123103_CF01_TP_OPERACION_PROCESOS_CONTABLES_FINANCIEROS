@@ -58,7 +58,6 @@ export default {
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
@@ -397,12 +396,13 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],
@@ -434,7 +434,13 @@ export default {
         },
         {
           nombre: 'Cristian Fernando Martínez Sánchez',
-          cargo: 'Desarrollador <i>fullstack</i>',
+          cargo: 'Desarrollador <i>full stack</i>',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

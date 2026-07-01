@@ -9,7 +9,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-xl
         .caja-intro.ajuste-caja-intro-1.mb-4.mb-lg-0(data-aos="fade-right")
-          p.mb-0 	Este capítulo explica el proceso técnico para elaborar las declaraciones tributarias, enfocándose en el cálculo del impuesto: depuración de la base gravable, determinación del impuesto y aplicación de retenciones y anticipos hasta obtener el saldo final. Este procedimiento sigue la secuencia establecida en el Estatuto Tributario y su reglamentación. Además, considera las normas vigentes, como el Decreto 1625 de 2016, el Decreto 2229 de 2023, el calendario tributario DIAN 2026 y los cambios introducidos por la Ley 2277 de 2022.
+          p.mb-0 	Este tema explica el proceso técnico para elaborar las declaraciones tributarias, enfocándose en el cálculo del impuesto: depuración de la base gravable, determinación del impuesto y aplicación de retenciones y anticipos hasta obtener el saldo final. Este procedimiento sigue la secuencia establecida en el Estatuto Tributario y su reglamentación. Además, considera las normas vigentes, como el Decreto 1625 de 2016, el Decreto 2229 de 2023, el calendario tributario DIAN 2026 y los cambios introducidos por la Ley 2277 de 2022.
       .col-xl-auto.col-md-9(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema3/img1.svg", alt="").m-auto
@@ -85,7 +85,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Costos y deducciones: criterios de procedencia y depuración
-                p.mb-0 En esta etapa se enseña a diferenciar el rol de los costos (para obtener renta bruta) y de las deducciones (para obtener renta líquida), siguiendo el orden de depuración. Para deducciones por expensas necesarias, el artículo 107 del Estatuto Tributario establece los criterios de causalidad, necesidad y proporcionalidad, aplicados con criterio comercial y con límites legales. Adicionalmente, la procedencia fiscal depende del soporte idóneo cuando sea exigible (factura/documento equivalente y reglas de soporte), por lo cual debe mantenerse coherencia con lo trabajado en el capítulo 2.
+                p.mb-0 En esta etapa se enseña a diferenciar el rol de los costos (para obtener renta bruta) y de las deducciones (para obtener renta líquida), siguiendo el orden de depuración. Para deducciones por expensas necesarias, el artículo 107 del Estatuto Tributario establece los criterios de causalidad, necesidad y proporcionalidad, aplicados con criterio comercial y con límites legales. Adicionalmente, la procedencia fiscal depende del soporte idóneo cuando sea exigible (factura/documento equivalente y reglas de soporte), por lo cual debe mantenerse coherencia con lo trabajado en el tema 2.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/tema3/img3.png', alt='' style="max-width: 500px").m-auto
@@ -150,7 +150,7 @@
             .col-7
               figure.mb-4(data-aos="fade-right")
                 img(src='@/assets/curso/tema3/img11.svg', alt="" style="max-width: 140px").m-auto
-            h4.text-center Hojas de cálculo (#[i Excel] u hoja equivalente)
+            h4.text-center Hojas de cálculo ( Excel u hoja equivalente)
             p.mb-0.text-center Sirven para consolidar rubros, aplicar fórmulas, controlar consistencia, parametrizar y simular escenarios.
       .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
         .caja-tema3-1.h-100
@@ -204,7 +204,7 @@
                 img(src='@/assets/curso/tema3/img15.svg', alt='El diagrama muestra el encabezado de una columna en una hoja de cálculo identificado como “Fecha / Periodo”. Este campo permite registrar el momento en que ocurre una operación o transacción, facilitando la organización cronológica, el control del año gravable y la trazabilidad de los registros contables.' style="max-width: 320px")
           .row(titulo="Paso 4").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
-              p.mb-0 Pestaña “resultado”. Es la depuración que se realiza con base en el art. 26 del Estatuto Tributario. Ejemplo: Revisar nuevamente la figura 10. Secuencia general de depuración de renta. 
+              p.mb-0 Pestaña “resultado”. Es la depuración que se realiza con base en el art. 26 del Estatuto Tributario.
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/tema3/img16.png', alt='').m-auto 
@@ -219,7 +219,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Tabla 10.
-          span Tablero de validación en #[i Excel]
+          span Tablero de validación en Excel
         .tabla-a(data-aos="zoom-in").mb-5
           table
             thead
@@ -260,20 +260,20 @@
                 td.ajuste-border-tabla.texto-left Revisar
                 td.texto-left Revisar en Anticipo
         .caja-intro(data-aos="zoom-in")
-          p.mb-0 En este capítulo se estudió la depuración del impuesto, se usaron hojas de cálculo para parametrizar variables, consolidar información y aplicar controles. Los valores pueden trasladarse al formulario, dando paso al siguiente subtema, que es el diligenciamiento y presentación de la declaración.
+          p.mb-0 En este tema se estudió la depuración del impuesto, se usaron hojas de cálculo para parametrizar variables, consolidar información y aplicar controles. Los valores pueden trasladarse al formulario, dando paso al siguiente subtema, que es el diligenciamiento y presentación de la declaración.
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.3	Paso a paso general para elaborar declaraciones de renta
     .caja-tema3.mb-5(data-aos="zoom-in")
       .row.align-items-center
         .col-xl.order-2.order-lg-1
-          p.mb-0 El cumplimiento tributario se concreta cuando la declaración se presenta ante la DIAN y, si corresponde, se realiza el pago dentro del plazo. Este capítulo integra el cálculo del impuesto con el proceso operativo de presentación y pago digital, permitiendo un cumplimiento oportuno, verificable y aplicable a distintos tipos de contribuyentes.
+          p.mb-0 El cumplimiento tributario se concreta cuando la declaración se presenta ante la DIAN y, si corresponde, se realiza el pago dentro del plazo. Este tema integra el cálculo del impuesto con el proceso operativo de presentación y pago digital, permitiendo un cumplimiento oportuno, verificable y aplicable a distintos tipos de contribuyentes.
         .col-xl-auto.order-1.order-lg-2
           figure
             img(src='@/assets/curso/tema3/img18.jpg', alt='').m-auto
     p.mb-5 La ruta general para la elaboración de una declaración de renta se explica secuencialmente en el siguiente esquema:
     .row.justify-content-center.mb-5
-      .col-xl-8
+      .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Figura 10.
           span Ruta para la elaboración de una declaración de renta
@@ -732,7 +732,7 @@
             .col-xl-auto.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/tema3/img46.jpg', alt='').m-auto
-    p.mb-0 Este capítulo cierra la fase operativa del cumplimiento tributario, destacando que la obligación se acredita con evidencias: declaración presentada, constancia y soporte de pago. Además, el aprendiz adquiere competencias para interpretar normas, organizar información, liquidar correctamente y presentar declaraciones con respaldo documental.
+    p.mb-0 Este tema cierra la fase operativa del cumplimiento tributario, destacando que la obligación se acredita con evidencias: declaración presentada, constancia y soporte de pago. Además, el aprendiz adquiere competencias para interpretar normas, organizar información, liquidar correctamente y presentar declaraciones con respaldo documental.
 </template>
 
 <script>

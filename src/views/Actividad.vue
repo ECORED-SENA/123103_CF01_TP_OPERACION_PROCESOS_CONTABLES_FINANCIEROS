@@ -20,7 +20,7 @@ export default {
       tema: 'Fundamentos de contabilidad y registro de transacciones.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar el nivel de comprensión de los aprendices sobre los fundamentos de la contabilidad, la clasificación de soportes y el ciclo contable, así como su capacidad para registrar transacciones mediante el uso de la cuenta T y la aplicación de la partida doble, fortaleciendo la generación de información financiera confiable para la toma de decisiones organizacionales fundamentada en datos.',
+        '<b>Objetivo:</b> evaluar el nivel de comprensión de los aprendices sobre los fundamentos de la contabilidad, la clasificación de soportes y el ciclo contable, así como su capacidad para registrar transacciones mediante el uso de la cuenta T y la aplicación de la partida doble, fortaleciendo la generación de información financiera confiable para la toma de decisiones organizacionales fundamentada en datos.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
