@@ -282,8 +282,7 @@ export default {
       link: '',
     },
     {
-      referencia:
-        'DIAN. (2020). Compilación Jurídica DIAN. OFICIO 232 DE 2020.',
+      referencia: 'DIAN. (2020). Compilación Jurídica DIAN.',
       link:
         'https://normograma.dian.gov.co/dian/compilacion/docs/oficio_dian_0232_2020.htm?utm',
     },
@@ -298,12 +297,12 @@ export default {
         'https://www.dian.gov.co/impuestos/personas/Renta-Personas-Naturales-AG-2020/Paginas/Eres-residente-en-Colombia-para-efectos-tributarios.aspx?utm',
     },
     {
-      referencia: 'DIAN. (s.f.). Documento Soporte.',
+      referencia: 'DIAN. (s.f.). Documento soporte adquisiciones no obligados.',
       link:
         'https://www.dian.gov.co/impuestos/Paginas/Sistema-de-Factura-Electronica/Documento-Soporte-Adquisiciones-No-Obligados.aspx?utm',
     },
     {
-      referencia: 'DIAN. (s.f.). Documento Soporte de Pago Nómina Electrónica.',
+      referencia: 'DIAN. (s.f.). Documento soporte de pago nómina electrónica.',
       link:
         'https://www.dian.gov.co/impuestos/Paginas/Sistema-de-Factura-Electronica/Documento-Soporte-de-Pago-de-Nomina-Electronica.aspx?utm_source',
     },
@@ -314,22 +313,22 @@ export default {
     },
     {
       referencia:
-        'Dirección de Impuestos y Aduanas Nacionales [DIAN]. (2024). Doctrina y conceptos unificados sobre procedimiento tributario. Bogotá, Colombia: Imprenta Nacional de Colombia.',
+        'DIAN. (2024). Doctrina y conceptos unificados sobre procedimiento tributario. Bogotá, Colombia: Imprenta Nacional de Colombia.',
       link: '',
     },
     {
       referencia:
-        'Dirección de Impuestos y Aduanas Nacionales. (2024). Conceptos unificados sobre procedimiento y régimen sancionatorio. Bogotá: Imprenta Nacional de Colombia.',
+        'DIAN. (2024). Conceptos unificados sobre procedimiento y régimen sancionatorio.Bogotá: Imprenta Nacional de Colombia.',
       link: '',
     },
     {
       referencia:
-        'Insignares, S. (2020). Teoría general del tributo: Un análisis desde la perspectiva colombiana. Barranquilla, Colombia: Editorial Universidad del Norte.',
+        'Insignares, S. (2020). Teoría general del tributo: Un análisis desde la perspectiva colombiana.Barranquilla, Colombia: Editorial Universidad del Norte.',
       link: '',
     },
     {
       referencia:
-        'Jaramillo, S. (2021). Planeación tributaria: Estrategias para el cumplimiento fiscal en Colombia. Bogotá: Legis.',
+        'Jaramillo, S. (2021). Planeación tributaria: Estrategias para el cumplimiento fiscal en Colombia.Bogotá: Legis.',
       link: '',
     },
     {
@@ -340,7 +339,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo. (2023). Guía técnica sobre convenios para evitar la doble imposición en Colombia. Bogotá, Colombia: Publicaciones Mincomercio.',
+        'Ministerio de Comercio, Industria y Turismo. (2023). Guía técnica sobre convenios para evitar la doble imposición en Colombia.Bogotá, Colombia: Publicaciones Mincomercio.',
       link: '',
     },
     {
@@ -360,34 +359,9 @@ export default {
     },
     {
       referencia:
-        'Presidente de la República de Colombia. (2023). Decreto 2229 de 2023: Por el cual se fijan los plazos para declarar y pagar los impuestos administrados por la DIAN para el año 2026. Bogotá, Colombia: Diario Oficial No. 51.234.',
-      link: '',
-    },
-    {
-      referencia:
-        'Siemprealdia.co. (17 de Febrero de 2026). Topes para declarar renta 2026: Personas naturales obligadas a declarar renta por el año gravable 2025.',
+        'Siemprealdia.co. (17 de Febrero de 2026). ¿Quién debe declarar renta del año gravable 2025? Personas naturales obligadas, topes y casos prácticos en 2026.',
       link:
         'https://siemprealdia.co/colombia/impuestos/personas-naturales-obligadas-a-declarar-renta/',
-    },
-    {
-      referencia:
-        'Ministerio de Hacienda y Crédito Público. (2016). Decreto 1625 "Por medio del cual se expide el Decreto Único Reglamentario en materia tributaria". Diario Oficial No. 50.023.',
-      link: '',
-    },
-    {
-      referencia:
-        'Ministerio de Hacienda y Crédito Público. (2019). Decreto 1468 de 2019 Reglamentación del Régimen Simple. Bogotá, Colombia.',
-      link: '',
-    },
-    {
-      referencia:
-        'Presidencia de la República de Colombia. (2023). Decreto 2229 "Por el cual se fijan los lugares y plazos para la presentación de las declaraciones tributarias y el pago de los impuestos". Diario Oficial No. 52.617.',
-      link: '',
-    },
-    {
-      referencia:
-        'Presidente de la República de Colombia. (2023). Decreto 2229 de 2023: Por el cual se fijan los plazos para declarar y pagar los impuestos administrados por la DIAN para el año 2026. Bogotá, Colombia: Diario Oficial No. 51.234.',
-      link: '',
     },
   ],
   creditos: [
@@ -411,9 +385,10 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Dania Aurelia Rueda Guanaro',
+          nombre: 'Paola Andrea Tello Zambrano',
           cargo: 'Experta temática',
-          centro: 'Regional Risaralda',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Paula Marcela Vidal Quintero',
